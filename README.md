@@ -7,4 +7,7 @@ SA:MP are supported.
 - Extract the ENB archive to your GTA:SA directory.
 - Copy enb.exe and SAMP FIX ENB W10 CU.bat from ENB Fix files.
 - Change your default SA:MP startup (Press WIN+R then open regedit, go to *HKEY_CURRENT_USER\SOFTWARE\SAMP* find gta_sa.exe registry, right click > Modify > Change gta_sa.exe to enb.exe)
-- Completely tutorial can be found [here.](https://www.youtube.com/watch?v=G4iL-xiZx2c&ab_channel=AnggiHermawan)
+- Completely tutorial can be found [here.](https://www.youtube.com/watch?v=G4iL-xiZx2c&ab_channel=AnggiHermawan)  
+## Preview  
+![Preview 1](https://i.ibb.co/X5HB8tp/Screenshot-2054.png)  
+![Preview 2](https://i.ibb.co/61JVc1c/Screenshot-425.png)
